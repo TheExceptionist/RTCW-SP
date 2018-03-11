@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: The property "WindowsTargetPlatformVersion" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: The property "WindowsTargetPlatformVersion" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: The property "WindowsTargetPlatformVersion" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: The property "WindowsTargetPlatformVersion" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: The property "WindowsTargetPlatformVersion" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: The property "WindowsTargetPlatformVersion" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)".
+  extractfuncs.c
+  l_log.c
+  l_memory.c
+  l_precomp.c
+c:\users\kenny\source\repos\rtcw-sp-master\src\extractfuncs\l_precomp.c(132): warning C4013: 'tolower' undefined; assuming extern returning int
+c:\users\kenny\source\repos\rtcw-sp-master\src\extractfuncs\l_precomp.c(143): warning C4013: 'toupper' undefined; assuming extern returning int
+c:\users\kenny\source\repos\rtcw-sp-master\src\extractfuncs\l_precomp.c(814): warning C4244: '=': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\kenny\source\repos\rtcw-sp-master\src\extractfuncs\l_precomp.c(815): warning C4133: 'function': incompatible types - from 'unsigned long *' to 'const time_t *const '
+c:\users\kenny\source\repos\rtcw-sp-master\src\extractfuncs\l_precomp.c(829): warning C4244: '=': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\kenny\source\repos\rtcw-sp-master\src\extractfuncs\l_precomp.c(830): warning C4133: 'function': incompatible types - from 'unsigned long *' to 'const time_t *const '
+  l_script.c
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1198,5): warning MSB8012: TargetPath(C:\Users\kenny\source\repos\RTCW-SP-master\src\extractfuncs\.\Debug\extractfuncs.exe) does not match the Linker's OutputFile property value (C:\Users\kenny\source\repos\RTCW-SP-master\src\extractfuncs\extractfuncs.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+extractfuncs.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  extractfuncs.vcxproj -> C:\Users\kenny\source\repos\RTCW-SP-master\src\extractfuncs\.\Debug\extractfuncs.exe
